@@ -1,8 +1,3 @@
-# StessTrack-Student-Mental-Health-Analysis
-Here’s a **README.md** description for your GitHub project:
-
----
-
 # **StressTrack: Student Mental Health Analysis Using Hybrid Modeling (FCM & KNN)**
 
 ## **Project Overview**
@@ -94,19 +89,11 @@ The project is divided into the following key steps:
 
 ## **Folder Structure**
 ```
-StressTrack/
-│
-├── data/
-│   └── Student Mental Health.csv   # Dataset used in the project
-│
-├── notebooks/
-│   └── StressTrack_Project.ipynb  # Jupyter Notebook with code
-│
-├── visuals/
-│   ├── cluster_membership.png     # Cluster visualization
-│   ├── knn_predictions.png        # KNN predictions visualization
-│   └── radar_chart.png            # Cluster risk radar chart
-│
+StessTrack-Student-Mental-Health-Analysis/
+|
+├── StressTrack_SMHA_Project.ipynb  # Jupyter Notebook with code
+├── Student Mental Health.csv   # Dataset used in the project         
+├── StressTrack_ Student Mental Health Analysis.pptx   # Presentation ppt of the project
 ├── requirements.txt               # Python dependencies
 └── README.md                      # Project documentation
 ```
@@ -134,10 +121,6 @@ StressTrack/
 ---
 
 ## **Contributors**
-- [Your Name](https://github.com/your-username)
+- [Sanjana Das](https://github.com/MindBooster)
 
 Feel free to contribute or raise issues for further enhancements!
-
----
-
-Let me know if you'd like me to adjust anything or add more details!
